@@ -1,5 +1,7 @@
 title: Blog
 description: Some thoughts, notes, and occasional technical curiosities.
 remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
 
 url: https://elinazoldnere.github.io
