@@ -1,5 +1,5 @@
 title: Blog
 description: Some thoughts, notes, and occasional technical curiosities.
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
-url: https://elina.zoldnere.github.io
+url: https://elinazoldnere.github.io
