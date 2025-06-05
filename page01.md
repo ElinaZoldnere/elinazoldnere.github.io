@@ -1,10 +1,11 @@
 ---
 layout: default
 title: May 18, 2025 Silent Breaking
-nav_order: 2
+nav_order: 3
 ---
 
 # Silent Breaking
+### Scheduled Build
 Recently, I encountered an issue that made me rethink when you can actually trust the integrity of
 your own codebase. The short version: only if you explicitly check it.
 
