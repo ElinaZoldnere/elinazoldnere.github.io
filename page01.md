@@ -1,6 +1,7 @@
 ---
 layout: default
 title: May 18, 2025 Silent Breaking
+description: About how hardcoded test dates can expire, and why regular checks e.g. scheduled builds matter for codebase integrity.
 nav_order: 3
 ---
 

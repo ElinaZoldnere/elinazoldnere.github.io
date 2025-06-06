@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+description: Reflections on Java and backend development, testability and maintainable design.
 nav_order: 1
 ---
 

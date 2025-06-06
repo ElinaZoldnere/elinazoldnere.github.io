@@ -1,5 +1,5 @@
 title: Blog
-description: Some thoughts, notes, and occasional technical curiosities.
+description: Reflections on Java and backend development, testability and maintainable design.
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: June 6, 2025 Should Now Be Now()
+description: How Java's Clock abstraction improves control over time handling and testability in Spring Boot application.
 nav_order: 2
 ---
 
